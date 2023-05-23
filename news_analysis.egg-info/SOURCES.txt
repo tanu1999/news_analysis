@@ -1,0 +1,7 @@
+README.md
+setup.py
+news_analysis.egg-info/PKG-INFO
+news_analysis.egg-info/SOURCES.txt
+news_analysis.egg-info/dependency_links.txt
+news_analysis.egg-info/requires.txt
+news_analysis.egg-info/top_level.txt
